@@ -62,7 +62,7 @@ This directory contains the SQL schema definition for the Airbnb backend databas
 
 For a complete description of the data model, including entity attributes and relationships, refer to:
 
-➡️ [`ERD/requirements.md`](../ERD/requirements.md)
+➡️ [`ERD/requirements.md`](../ERD/requirements.md)  
 ➡️ [`ERD/airbnb-db.png`](../ERD/airbnb-db.png)
 
 
