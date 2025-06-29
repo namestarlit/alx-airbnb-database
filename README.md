@@ -24,26 +24,26 @@ This directory contains the SQL schema definition for the Airbnb backend databas
 
 2. **Create a New Database**  
     ```bash
-   createdb airbnb_db
+   createdb airbnb
     ````
 
 3. **Run the Schema Script**
 
    ```bash
-   psql -d airbnb_db -f schema.sql
+   psql -d airbnb -f schema.sql
    ```
 
    Or if using authentication:
 
    ```bash
-   psql -U your_username -W -d airbnb_db -f schema.sql
+   psql -U your_username -W -d airbnb -f schema.sql
    ```
 
 4. **Verify Installation**
    Connect and list tables:
 
    ```bash
-   psql -d airbnb_db
+   psql -d airbnb
    \dt
    ```
 
