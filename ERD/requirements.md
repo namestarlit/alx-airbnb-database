@@ -9,7 +9,6 @@ The Entity-Relationship Diagram (ERD) provides a visual summary of the database 
 
 ![Airbnb Database ERD](./airbnb-db.png)
 
----
 
 ## Entities and Attributes
 
