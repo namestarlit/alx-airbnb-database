@@ -91,7 +91,7 @@ CREATE TABLE user_roles (
 
 ## Final Verdict
 
-✅ Your current schema **meets 3NF** requirements.
+✅ The current schema **meets 3NF** requirements.
 
 No critical transitive or partial dependencies exist.
 Some fields (like `total_price` or `pricepernight`) may look redundant but are **purposeful denormalizations** for performance and business logic clarity.
