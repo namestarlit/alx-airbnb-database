@@ -23,9 +23,9 @@ This directory contains the SQL schema definition for the Airbnb backend databas
    Ensure PostgreSQL is installed and running.
 
 2. **Create a New Database**  
-   ```bash
+    ```bash
    createdb airbnb_db
-````
+    ````
 
 3. **Run the Schema Script**
 
